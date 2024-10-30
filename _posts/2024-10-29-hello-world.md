@@ -2,6 +2,8 @@
 layout: post
 title: Hello World!
 date: 2024-10-29 20:13 -0400
+category: personal
+tags: fun
 ---
 ### Hello There!
 
